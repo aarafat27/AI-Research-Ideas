@@ -45,7 +45,7 @@ Here, you'll find a list of subfields of AI with research topics, hypotheses, an
 **Hypothesis:** Meta-learning can be used to develop more efficient optimization algorithms that adapt to different problem domains.
 
 3. **Hyperparameter Optimization Using Evolutionary Algorithms.**
-   **objectives:** Investigate the use of genetic algorithms, particle swarm optimization, or other evolutionary algorithms to optimize hyperparameters in deep learning models. 
+**Objectives:** Investigate the use of genetic algorithms, particle swarm optimization, or other evolutionary algorithms to optimize hyperparameters in deep learning models. 
 **Hypothesis:** Evolutionary algorithms can outperform grid search and random search methods in optimizing hyperparameters, especially for models with complex architectures.
 
 
