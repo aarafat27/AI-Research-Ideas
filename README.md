@@ -1,4 +1,4 @@
-# AI Research Ideas and Hypotheses Repository
+🧠 # AI Research Ideas and Hypotheses Repository
 ![ai](https://github.com/user-attachments/assets/4a08e155-9889-49e8-b070-7001059df06a)
 
 
