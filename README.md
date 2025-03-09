@@ -35,10 +35,10 @@ This repository is dedicated to providing a structured compilation of research i
 
 Here, you'll find a list of subfields of AI with research topics, hypotheses, and ideas for each.
 
-### 🧿 Optimization
+## 🧿 Optimization
 
-**1. Improving Convergence Rates of Stochastic Gradient Descent. **  
-   **Hypothesis:** Applying momentum-based techniques such as Nesterov’s Accelerated Gradient will significantly speed up convergence rates on non-convex optimization problems.  
+**1. Improving Convergence Rates of Stochastic Gradient Descent.**  
+**Hypothesis:** Applying momentum-based techniques such as Nesterov’s Accelerated Gradient will significantly speed up convergence rates on non-convex optimization problems.  
 
 - **Research Idea 2:** *Meta-Learning for Optimization Algorithms*  
    **Hypothesis:** Meta-learning can be used to develop more efficient optimization algorithms that adapt to different problem domains.
