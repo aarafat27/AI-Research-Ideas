@@ -72,19 +72,19 @@ Here, you'll find a list of subfields of AI with research topics, hypotheses, an
 
 10. **Differentially Private Optimization.**    
    **Objectives:** Explore optimization techniques that preserve privacy in machine learning models, ensuring that no sensitive user data is exposed during the optimization process.    
-   > **Hypothesis:** Differentially private optimization methods will maintain high accuracy while satisfying privacy constraints, especially in sensitive fields like healthcare.
+   > **Hypothesis:** Differentially private optimization methods will maintain high accuracy while satisfying privacy constraints, especially in sensitive fields like healthcare.   
 
 11. **Optimization of GANs for High-Fidelity Image Generation.**     
    **Objectives:** Investigate advanced optimization techniques to improve the stability and output quality of Generative Adversarial Networks (GANs) for tasks like super-resolution or image synthesis.         
-   > **Hypothesis:** Advanced optimization techniques such as Wasserstein loss or spectral normalization can significantly improve the stability and diversity of GAN-generated images.     
+   > **Hypothesis:** Advanced optimization techniques such as Wasserstein loss or spectral normalization can significantly improve the stability and diversity of GAN-generated images.        
 
 12. **Optimization for Autonomous Vehicles.**   
    **Objectives:** Study optimization algorithms that improve path planning, trajectory prediction, and decision-making for autonomous driving systems.    
-   > **Hypothesis:** Optimized path-planning algorithms will outperform traditional models in terms of safety, energy consumption, and driving efficiency in autonomous vehicle systems.   
+   > **Hypothesis:** Optimized path-planning algorithms will outperform traditional models in terms of safety, energy consumption, and driving efficiency in autonomous vehicle systems.       
 
 13. **Meta-Optimization for Multi-Objective Learning.**     
    **Objectives:** Explore meta-optimization methods to automatically learn the best strategies for handling multiple objectives in a single machine learning task.        
-   > **Hypothesis:** Meta-optimization techniques will enable the creation of more efficient models that can balance competing objectives, like accuracy and fairness.  
+   > **Hypothesis:** Meta-optimization techniques will enable the creation of more efficient models that can balance competing objectives, like accuracy and fairness.     
 
 ---
 
