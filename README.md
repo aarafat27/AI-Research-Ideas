@@ -37,7 +37,7 @@ Here, you'll find a list of subfields of AI with research topics, hypotheses, an
 
 ## 🧿 Optimization
 
-**1. Improving Convergence Rates of Stochastic Gradient Descent.**  
+-1 **1. Improving Convergence Rates of Stochastic Gradient Descent.**  
 **Hypothesis:** Applying momentum-based techniques such as Nesterov’s Accelerated Gradient will significantly speed up convergence rates on non-convex optimization problems.  
 
 - **Research Idea 2:** *Meta-Learning for Optimization Algorithms*  
