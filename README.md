@@ -50,6 +50,9 @@ Here, you'll find a list of subfields of AI with research topics, hypotheses, an
 4. **Optimization in Federated Learning.**  
    **Objectives:** Study optimization methods tailored for federated learning, where data remains decentralized, and models are updated across distributed devices.
    > **Hypothesis:** Federated learning optimization methods will be able to achieve near-global optimization while preserving data privacy and reducing computational cost.
+5. **Parallel Optimization Algorithms.**    
+   **Objectives:** Develop parallel optimization techniques to scale machine learning algorithms to massive datasets and high-dimensional feature spaces.  
+   > **Hypothesis:** Parallel optimization techniques will be able to significantly speed up the training process for large-scale machine learning models, such as deep reinforcement learning.  
 
 6. **Stochastic Optimization for Non-differentiable Functions.**  
    **Objectives:** Explore the effectiveness of stochastic gradient-based optimization methods for functions that are not differentiable, such as in combinatorial optimization problems.   
@@ -67,7 +70,7 @@ Here, you'll find a list of subfields of AI with research topics, hypotheses, an
    **Objectives:** Investigate optimization algorithms designed for real-time learning systems, such as adaptive learning rates in dynamic environments (e.g., online recommendation systems).             
    > **Hypothesis:** Online optimization algorithms can achieve near-optimal performance while processing massive, real-time data streams without retraining the entire model.   
 
-10. **Differentially Private Optimization.**  
+10. **Differentially Private Optimization.**
    **Objectives:** Explore optimization techniques that preserve privacy in machine learning models, ensuring that no sensitive user data is exposed during the optimization process.  
    > **Hypothesis:** Differentially private optimization methods will maintain high accuracy while satisfying privacy constraints, especially in sensitive fields like healthcare.
 
