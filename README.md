@@ -25,7 +25,7 @@ Welcome to the **AI Research Ideas and Hypotheses Repository**! This repository 
 
 ---
 
-## [!Introduction]
+## Introduction
 
 This repository is dedicated to providing a structured compilation of research ideas and hypotheses across various subfields of artificial intelligence. Each category within this repository is designed to inspire new research, provide insights, and serve as a starting point for anyone looking to dive into AI research.
 
