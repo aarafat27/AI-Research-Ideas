@@ -51,7 +51,7 @@ Here, you'll find a list of subfields of AI with research topics, hypotheses, an
    **Objectives:** Study optimization methods tailored for federated learning, where data remains decentralized, and models are updated across distributed devices.
    > **Hypothesis:** Federated learning optimization methods will be able to achieve near-global optimization while preserving data privacy and reducing computational cost.
 
- 6. **Stochastic Optimization for Non-differentiable Functions.**  
+6. **Stochastic Optimization for Non-differentiable Functions.**  
    **Objectives:** Explore the effectiveness of stochastic gradient-based optimization methods for functions that are not differentiable, such as in combinatorial optimization problems.   
    > **Hypothesis:** Stochastic optimization methods like Simulated Annealing and Particle Swarm Optimization can significantly improve performance in non-differentiable function spaces. 
 
