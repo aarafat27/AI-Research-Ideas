@@ -47,7 +47,7 @@ Here, you'll find a list of subfields of AI with research topics, hypotheses, an
    **Objectives:** Investigate the use of genetic algorithms, particle swarm optimization, or other evolutionary algorithms to optimize hyperparameters in deep learning models.   
    > **Hypothesis:** Evolutionary algorithms can outperform grid search and random search methods in optimizing hyperparameters, especially for models with complex architectures.
 
-4. **Optimization in Federated Learning.**  
+###4. **Optimization in Federated Learning.**  
    **Objectives:** Study optimization methods tailored for federated learning, where data remains decentralized, and models are updated across distributed devices.
    > **Hypothesis:** Federated learning optimization methods will be able to achieve near-global optimization while preserving data privacy and reducing computational cost.
 
