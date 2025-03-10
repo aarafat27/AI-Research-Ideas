@@ -265,56 +265,7 @@ Here, you'll find a list of subfields of AI with research topics, hypotheses, an
    > **Hypothesis:** PPO can outperform traditional methods by offering better sample efficiency and stability in large-scale real-world environments.
 
 ---
-
-### Generative Models
-
-- **Research Idea 1:** *Improved GAN Training Stability*  
-   **Hypothesis:** By integrating Wasserstein distances into GAN training, we can stabilize the model and mitigate mode collapse.  
-   **Potential Models:** GAN, Wasserstein GAN (WGAN), CycleGAN.
-
-- **Research Idea 2:** *Conditional Generative Models for Image Synthesis*  
-   **Hypothesis:** Generative models conditioned on semantic information can be used to synthesize high-quality images with specific attributes, such as age, gender, or lighting conditions.  
-   **Potential Models:** Conditional GANs, Pix2Pix, StyleGAN2.
-
----
-
-### Computer Vision
-
-- **Research Idea 1:** *Vision Transformers for Object Detection*  
-   **Hypothesis:** Transformers can outperform CNNs in object detection tasks by better capturing long-range dependencies between pixels.  
-   **Potential Models:** ViT (Vision Transformer), DETR.
-
-- **Research Idea 2:** *3D Object Recognition with Point Clouds*  
-   **Hypothesis:** Integrating point cloud data with CNNs can significantly improve performance in 3D object recognition, especially in autonomous driving.  
-   **Potential Models:** PointNet, PointNet++.
-
----
-
-### Robotics
-
-- **Research Idea 1:** *Sim2Real Transfer in Robotics*  
-   **Hypothesis:** Transfer learning can significantly improve the performance of robotic systems trained in simulated environments when deployed in real-world environments.  
-   **Potential Models:** DDPG, HER, Sim2Real adaptation techniques.
-
-- **Research Idea 2:** *Robotic Manipulation with Deep RL*  
-   **Hypothesis:** Deep reinforcement learning can be used to teach robotic arms to perform complex manipulation tasks by interacting with various objects in the environment.  
-   **Potential Models:** OpenAI Gym, Mujoco, Roboschool.
-
----
-
-### Ethics and AI
-
-- **Research Idea 1:** *Bias in AI Systems*  
-   **Hypothesis:** Investigating the underlying sources of bias in AI systems and proposing algorithmic interventions can reduce discriminatory outcomes in predictive models.  
-   **Potential Areas of Study:** Algorithmic fairness, debiasing techniques, AI in recruitment.
-
-- **Research Idea 2:** *Transparency in AI Decision-Making*  
-   **Hypothesis:** Developing AI models with explainability and transparency can lead to better trust and wider acceptance in high-stakes domains like healthcare and criminal justice.  
-   **Potential Techniques:** LIME, SHAP, fairness audits.
-
----
-
-## Contributing
+## 👩🏼‍💻 Contributing
 
 We encourage researchers, practitioners, and enthusiasts to contribute to this repository by:
 
@@ -326,7 +277,7 @@ To contribute, please fork the repository, make changes, and submit a pull reque
 
 ---
 
-## License
+## 📜 License
 
 This repository is licensed under the MIT License. See [LICENSE](./LICENSE) for more details.
 
