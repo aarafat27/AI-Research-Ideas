@@ -126,10 +126,10 @@ Here, you'll find a list of subfields of AI with research topics, hypotheses, an
    **Objectives:** Develop CNN architectures that can simultaneously process and fuse image and text data for tasks such as visual question answering and image captioning.   
    > **Hypothesis:** Multi-modal CNNs will outperform traditional models by leveraging both textual and visual context in integrated tasks.
 
-3. **Explainability in CNNs.**    
-   **Hypothesis:** Developing methods to visualize feature maps and filter activations can increase the interpretability of CNN-based models, especially for medical applications.   
+2. **Explainability in CNNs.**    
+   > **Hypothesis:** Developing methods to visualize feature maps and filter activations can increase the interpretability of CNN-based models, especially for medical applications.   
 
-4. **CNNs for Satellite Imagery Analysis.**    
+3. **CNNs for Satellite Imagery Analysis.**    
    **Objectives:** Develop CNN-based models for analyzing satellite images, such as land cover classification, disaster monitoring, and climate change detection.   
    > **Hypothesis:** CNNs can be effectively used to extract high-level features from satellite images, outperforming traditional image processing techniques.  
 
@@ -137,7 +137,7 @@ Here, you'll find a list of subfields of AI with research topics, hypotheses, an
    **Objectives:** Extend 2D CNNs to 3D for the purpose of analyzing volumetric data such as MRI scans, CT scans, or PET scans.    
    > **Hypothesis:** 3D CNNs will provide more accurate predictions for medical diagnoses, especially for detecting anomalies in volumetric scans like tumors.   
 
-6. **Efficient CNNs for Edge Devices.**   
+5. **Efficient CNNs for Edge Devices.**   
    **Objectives:** Design lightweight CNN architectures for deployment on edge devices with limited computational resources, like IoT or mobile applications.  
    > **Hypothesis:** Compact CNN architectures, like MobileNet or SqueezeNet, will achieve performance close to traditional CNNs while being more efficient for edge deployment.  
 
